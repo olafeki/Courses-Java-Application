@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name"> </string>
+
+    //Headings
+    <string name="heading_one">Quick &amp; Easy learning</string>
+    <string name="heading_two">Learn from experts</string>
+    <string name="heading_three">Pursue any goal</string>
+    <string name="heading_fourth">Earn certificates</string>
+
+    //Description
+    <string name="desc_one">Achieve your goals with the world s best learning online</string>
+    <string name="desc_two">Build skills with top instructors from leading universities and companies</string>
+    <string name="desc_three">Master job-relevant skills and earn career credentials</string>
+    <string name="desc_fourth">Showcase in-demand skills to attract hiring managers</string>
+    <string name="email_address">"olamamduoh2003@gmail.com"</string>
+</resources>
